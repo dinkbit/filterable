@@ -1,5 +1,7 @@
 # Filterable Eloquent Models
 
+[![Build Status](https://img.shields.io/travis/dinkbit/filterable.svg?style=flat-square)](https://travis-ci.org/dinkbit/filterable)
+
 ### Setup
 
 ```php
