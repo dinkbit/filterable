@@ -1,6 +1,7 @@
 # Filterable Eloquent Models
 
 [![Build Status](https://img.shields.io/travis/dinkbit/filterable.svg?style=flat-square)](https://travis-ci.org/dinkbit/filterable)
+[![StyleCI](https://styleci.io/repos/30913207/shield)](https://styleci.io/repos/30913207)
 
 ### Setup
 
