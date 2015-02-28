@@ -20,7 +20,6 @@ use Mockery as m;
  */
 class FilterableTraitTest extends \PHPUnit_Framework_TestCase
 {
-
     public function tearDown()
     {
         m::close();

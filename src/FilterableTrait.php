@@ -18,7 +18,6 @@ namespace Dinkbit\Filterable;
  */
 trait FilterableTrait
 {
-
     /**
      * Add filter scopes dynamically.
      *
